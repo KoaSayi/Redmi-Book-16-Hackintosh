@@ -1,6 +1,7 @@
 # Redmi Book 16 2024 · macOS 15.8.2 Run
 
 i5-12450H / Intel UHD 48EU（`8086:46A3` rev 0x0C）/ macOS 15.8.2 (24H232) / OpenCore 1.0.8
+
 本EFI和GPU配置亦可适用与主要受益者：同型号 GPU、卡在"8MB 无 Metal"的情况
 
 ## 本机配置：
@@ -25,7 +26,6 @@ Redmi2024 MacOS GPU\
 ├── README.md                              本文件
 ├── EFI\                                   ✅ 完整可用 EFI（BOOT + OC，22 个 kext）
 ├── WhateverXe.kext                        成果二进制（可直接替换进 EFI）
-├── wex-0.8.0-adlp-46a3-edp-coldcdclk.patch三处源码改动（相对官方 0.8.0，可直接 patch -p1）
 ```
 
 ## 怎么用
