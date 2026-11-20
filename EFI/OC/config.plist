@@ -1156,17 +1156,17 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>AirportItlwm_Sequoia.kext</string>
+				<string>AirportItlwm.kext</string>
 				<key>Comment</key>
-				<string>Intel AX203 Wi-Fi - Sequoia branch, Darwin 24.2.0-24.99.99 only</string>
+				<string>Intel AX203 Wi-Fi 6 - Tahoe 26 branch 2.4.0 (x86_64)</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AirportItlwm</string>
 				<key>MaxKernel</key>
-				<string>24.99.99</string>
+				<string></string>
 				<key>MinKernel</key>
-				<string>24.2.0</string>
+				<string>25.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
